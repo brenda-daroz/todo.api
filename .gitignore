@@ -1,0 +1,29 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+
+# VS Code
+.vscode/
+.history/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build results
+*.exe
+*.dll
+*.app
+*.log
+
+# Rider
+.idea/
+
+# dotnet user secrets
+secrets.json
+*.swp
